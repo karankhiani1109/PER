@@ -5,7 +5,7 @@ Frontend languages- html,css,bootstrap,javascript,jquery.
 Database-Mysql.
 Description Of pages in folder Webcontent
 1->firstpage.html
-2->index.jsp---------------------------
+2->index.jsp
                  |                     |
            loginadmin.jsp        loginstudent.jsp
                  |                        |
